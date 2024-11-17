@@ -1,4 +1,4 @@
-# NGINX with PHP 8.2 Docker Setup
+# phpMyAdmin with PHP 8.2 Docker Setup
 
 This repository provides a Docker configuration for setting up a PHP 8.2 environment with NGINX on Ubuntu 22.04. It is ideal for deploying PHP-based applications like Laravel or phpMyAdmin.
 
